@@ -68,6 +68,7 @@ class HitungFragment : Fragment() {
 
         binding.bmiTextView.text = getString(R.string.bmi_x, bmi)
         binding.kategoriTextView.text = getString(R.string.kategori_x, kategori)
+        binding.saranButton.visibility = View.VISIBLE
         binding.buttonGroup.visibility = View.VISIBLE
     }
 
