@@ -35,6 +35,12 @@ asal tidak lari dari kehidupan.</string>
 cm\nJenis kelamin: %3$s\n\n%4$s\n%5$s</string>
     <string name="belum_ada_data">Belum Ada Data</string>
     <string name="histori">Histori</string>
+    <string name="berat_x">BB: %1$.1f</string>
+    <string name="tinggi_x">TB: %1$.1f</string>
+    <string name="konfirmasi_hapus">Konfirmasi Hapus</string>
+    <string name="hapus">hapus</string>
+    <string name="hapus_histori">hapus histori</string>
+    <string name="batal">batal</string>
 
 
 </resources>

@@ -1,4 +1,4 @@
-package org.d3if0010.hitungbmi
+package org.d3if0010.hitungbmi.data
 
 import org.d3if0010.hitungbmi.data.KategoriBmi
 
